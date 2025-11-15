@@ -1,6 +1,6 @@
 ## 🎓About Me:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=33frok1e&label=Profile%20views&color=0e75b6&style=flat" alt="33frok1e" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=33Krishna&label=Profile%20views&color=0e75b6&style=flat" alt="33Krishna" /> </p>
 
 <h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a FullStack Developer</h4>
 
@@ -26,8 +26,8 @@
 
 ## 📊GitHub Stats:
 
-![Ratikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=33Frok1e&show_icons=true&theme=dark)
+![Ratikrishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=33Krishna&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=33Frok1e&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=33Krishna&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33Frok1e&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33Krishna&layout=compact&theme=dark)
