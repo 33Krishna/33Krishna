@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning **Web3**
 
-💬 Ask me about **Javascript, React**
+💬 Ask me about **Javascript, React, C#**
 
 📫 How to reach me **mratikrishna@gmail.com**
 
