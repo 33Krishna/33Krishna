@@ -1,7 +1,6 @@
 ## 🎓About Me:
 ![Profile views](https://komarev.com/ghpvc/?username=33Krishna&label=Stalked%20by&color=02f28a&style=flat)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=33Krishna&label=Profile%20views&color=0e75b6&style=flat" alt="33Krishna" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=33Krishna&label=Profile%20views&color=0e75b6&style=flat" alt="33Krishna" /> </p> -->
 <h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a passionate FullStack Developer and Cloud Engineer</h4>
 
 - 🌱 I’m currently learning about **Distributed System**
@@ -31,3 +30,23 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=33Krishna&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33Krishna&layout=compact&theme=dark)
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/33Krishna">
+          <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=33Krishna&theme=tokyonight" alt="Krishna's streak stats"/>
+        </a>
+      </td>
+      <td align="center">
+        <img width="430" src="https://github-readme-stats.vercel.app/api?username=33Krishna&show_icons=true&theme=tokyonight" alt="Krishna's Github Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="450" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=33Krishna&langs_count=4&hide=handlebars,jupyter%20notebook,css&theme=tokyonight&line_height=40&layout=compact" alt="Krishna's Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
