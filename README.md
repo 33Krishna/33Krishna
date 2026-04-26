@@ -1,7 +1,6 @@
 ## 🎓About Me:
-
+![Profile views](https://komarev.com/ghpvc/?username=33Krishna&label=Stalked%20by&color=02f28a&style=flat)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=33Krishna&label=Profile%20views&color=0e75b6&style=flat" alt="33Krishna" /> </p>
-<p align="left"> ![Profile views](https://komarev.com/ghpvc/?username=33Krishna&label=Stalked%20by&color=02f28a&style=flat) </p>
 
 <h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a passionate FullStack Developer and Cloud Engineer</h4>
 
