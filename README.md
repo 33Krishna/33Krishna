@@ -4,17 +4,17 @@
 
 <h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a passionate FullStack Developer and Cloud Engineer</h4>
 
-🌱 I’m currently learning about **Distributed System**
-💬 Ask me about **JavaScript**, **Cloud** and **DevOps**
-📫 How to reach me **mratikrishna@gmail.com**
-⚡ Fun fact: I love to play games and make content
-👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱 I’m currently learning about **Distributed System**
+- 💬 Ask me about **JavaScript**, **Cloud** and **DevOps**
+- 📫 How to reach me **mratikrishna@gmail.com**
+- ⚡ Fun fact: I love to play games and make content
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 <p align="left"> <a href="https://twitter.com/krishna_rati" target="blank"><img src="https://img.shields.io/twitter/follow/krishna_rati?logo=twitter&style=for-the-badge" alt="krishna_rati" /></a> </p>
 
 ## 🌐Socials:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rati-krishna-moharana-40b19627a) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Krishna_Rati)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/frok1e_88?igsh=OGQ5ZDc2ODk2ZA==)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rati-krishna-moharana-40b19627a) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Krishna_Rati) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/frok1e_88?igsh=OGQ5ZDc2ODk2ZA==)
 
 ## 💻Tech Stack:
 
