@@ -2,11 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=33Krishna&label=Profile%20views&color=0e75b6&style=flat" alt="33Krishna" /> </p>
 
-<h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a FullStack and Cloud Engineer</h4>
+<h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a passionate FullStack Developer and Cloud Engineer</h4>
 
-🌱 I’m currently learning **Cloud Architecture**
-
+🌱 I’m currently learning about **Distributed System**
+💬 Ask me about **JavaScript**, **Cloud** and **DevOps**
 📫 How to reach me **mratikrishna@gmail.com**
+⚡ Fun fact: I love to play games and make content
+👯 I’m looking to collaborate on **Open Source Projects**
 
 <p align="left"> <a href="https://twitter.com/krishna_rati" target="blank"><img src="https://img.shields.io/twitter/follow/krishna_rati?logo=twitter&style=for-the-badge" alt="krishna_rati" /></a> </p>
 
