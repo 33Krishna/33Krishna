@@ -3,7 +3,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=33Krishna&label=Profile%20views&color=0e75b6&style=flat" alt="33Krishna" /> </p> -->
 <h4 align="left">Hi 👋! I'm Rati Krishna Moharana, a passionate FullStack Developer and Cloud Engineer</h4>
 
-- 🌱 I’m currently learning about **Distributed System**
+- 🌱 I’m currently learning about **Distributed Systems**
 - 💬 Ask me about **JavaScript**, **Cloud** and **DevOps**
 - 📫 How to reach me **mratikrishna@gmail.com**
 - ⚡ Fun fact: I love to play games and make content
