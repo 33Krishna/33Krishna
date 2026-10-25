@@ -65,7 +65,7 @@ Hi 👋, I'm **Rati Krishna Moharana**. I like owning a product end-to-end: buil
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rati-krishna-moharana-40b19627a)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Krishna_Rati)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/frok1e_88?igsh=OGQ5ZDc2ODk2ZA==)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/krxna_4)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mratikrishna@gmail.com)
 <!-- Add your portfolio link:
 [![Portfolio](https://img.shields.io/badge/Portfolio-02f28a?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR-PORTFOLIO-URL) -->
