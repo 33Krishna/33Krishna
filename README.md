@@ -133,10 +133,10 @@ Hi 👋, I'm **Rati Krishna Moharana**. I like owning a product end-to-end: buil
 | Area | Project | What it covers |
 |---|---|---|
 | 🤖 **DevOps + AIOps** | [**Autonomous AIOps & GitOps Platform**](https://github.com/33Krishna/cloudnative-gitops-aiops-platform) | AWS EKS (v1.32), Terraform IaC, ArgoCD GitOps, Prometheus/Grafana, and Bedrock AI Agent (Kira) for automated incident triage |
-| ☁️ **Full Stack** | [**DevsOverflow**](https://github.com/33Krishna/DevsOverflow.git) | React + Node.js + MongoDB on EKS with ECR, Ingress controller, ALB, HTTPS |
 | ☁️ **DevOps** | [**DevSecOps Pipeline & GitOps Deployment for MERN App on EKS**](https://github.com/33Krishna/DevOps-Mega-Project-Wanderlust.git) | CI with Jenkins, SonarQube and Trivy scans, GitOps delivery via ArgoCD, Prometheus + Grafana monitoring |
 | ☁️ **DevOps** | [**.NET App CI/CD to VPS**](https://github.com/33Krishna/devops-lab-my-dotnet-app.git) | GitHub Actions + Docker pipeline deploying a .NET app to a Hostinger VPS |
 | 🖥️ **Full Stack** | [**Personal Portfolio**](https://github.com/33Krishna/3_Portfolio) | Next.js portfolio built with modern UI components and responsive design |
+| 🖥️ **Full Stack** | [**DevsOverflow**](https://github.com/33Krishna/DevsOverflow.git) | Next.js + Typescript + OpenAI + MongoDB (community-driven platform, enhanced with AI-powered answers, gamification, recommendations, and more) |
 
 ---
 
