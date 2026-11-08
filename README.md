@@ -144,8 +144,8 @@ Hi 👋, I'm **Rati Krishna Moharana**. I like owning a product end-to-end: buil
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=33Krishna&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=33Krishna&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=33Krishna&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=33Krishna&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=33Krishna&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
