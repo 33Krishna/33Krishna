@@ -18,7 +18,7 @@
 
 Hi 👋, I'm **Rati Krishna Moharana**. I like owning a product end-to-end: build the app, containerize it, provision the infra, automate delivery, monitor it, and use AI tools to move faster at every step.
 
-- 🌱 Learning next: **AIOps**, **Generative AI**, and **system design**
+- 🚀 Learning: **AIOps**, **Generative AI**, and **system design**
 - 💬 Ask me about: **React / Node.js**, **AWS**, **AI-assisted development**
 - 👯 Open to collaborating on **Open Source** projects
 - 📫 Reach me: **mratikrishna@gmail.com**
@@ -34,26 +34,28 @@ Hi 👋, I'm **Rati Krishna Moharana**. I like owning a product end-to-end: buil
 
 ### 🖥️ Full Stack
 - Frontend with **React / Next.js / TypeScript**
-- APIs with **Node.js / Express**
-- DB schema design: **MongoDB, PostgreSQL, MySQL**
-- API contracts, auth, code review
+- APIs with **Node.js / Express / Python**
+- DB schema design: **PostgreSQL, MongoDB, MySQL**
+- Microservices & API Gateway architecture
 
 </td>
 <td width="33%" valign="top">
 
 ### ☁️ Cloud & DevOps
-- **AWS** + **Terraform** (IaC)
-- **Docker** + **Kubernetes / EKS**
+- **AWS** + **Terraform** (IaC, Multi-AZ VPC)
+- **Docker** + **Kubernetes / EKS** (IRSA, EBS CSI)
 - CI/CD with **GitHub Actions / Jenkins**
-- GitOps with **ArgoCD**, monitoring with **Prometheus + Grafana**
+- GitOps with **ArgoCD + Kustomize**
+- Observability: **Prometheus + Grafana + CloudWatch**
 
 </td>
 <td width="33%" valign="top">
 
-### 🤖 AI & Agentic
-- AI-assisted building with **Claude, ChatGPT, Cursor, Antigravity**
-- Shipping full websites and products with agentic workflows
-- Exploring **AIOps** and **Generative AI** and **LLM deployment / inference** (learning)
+### 🤖 AI & AIOps
+- **AIOps & SRE Agents**: Incident triage with **AWS Bedrock + Lambda**
+- AI-assisted building with **Claude Code, Cursor, Antigravity**
+- Extensible workflows with **Model Context Protocol (MCP)**
+- Generative AI & agentic developer automations
 
 </td>
 </tr>
@@ -67,8 +69,6 @@ Hi 👋, I'm **Rati Krishna Moharana**. I like owning a product end-to-end: buil
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Krishna_Rati)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/krxna_4)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mratikrishna@gmail.com)
-<!-- Add your portfolio link:
-[![Portfolio](https://img.shields.io/badge/Portfolio-02f28a?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR-PORTFOLIO-URL) -->
 
 ---
 
@@ -83,25 +83,21 @@ Hi 👋, I'm **Rati Krishna Moharana**. I like owning a product end-to-end: buil
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### ⚙️ Backend & Databases
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -110,24 +106,25 @@ Hi 👋, I'm **Rati Krishna Moharana**. I like owning a product end-to-end: buil
 ### 🐳 Containers, CI/CD & GitOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/argo%20cd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 Monitoring & Security
+### 📊 Monitoring & Observability & Security
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-%23FF4F8B.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
 
-### 🤖 AI & Agentic Tools
+### 🤖 AI, AIOps & Agentic Tools
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-0073BB?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
@@ -135,13 +132,11 @@ Hi 👋, I'm **Rati Krishna Moharana**. I like owning a product end-to-end: buil
 
 | Area | Project | What it covers |
 |---|---|---|
-| ☁️ DevOps | **Three-Tier App on AWS EKS (SSL)** | React + Node.js + MongoDB on EKS with ECR, Ingress controller, ALB, HTTPS |
-| ☁️ DevOps | **EKS + Jenkins + ArgoCD** | CI with Jenkins, SonarQube and Trivy scans, GitOps delivery via ArgoCD, Prometheus + Grafana monitoring |
-| 🤖 DevOps + AI | **End-to-End DevOps + AIOps** | Full DevOps lifecycle with an AIOps layer |
-| ☁️ DevOps | **.NET App CI/CD to VPS** | GitHub Actions + Docker pipeline deploying a .NET app to a Hostinger VPS |
-| 🖥️ Full Stack | **Personal Portfolio** | Next.js portfolio built from the Magic UI template, [repo](https://github.com/33Krishna/3_Portfolio) |
-
-> 🔗 Add the repo link for each project. Also add 1-2 **full stack** and **AI** projects here so all three pillars have proof, not just claims.
+| 🤖 **DevOps + AIOps** | [**Autonomous AIOps & GitOps Platform**](https://github.com/33Krishna/cloudnative-gitops-aiops-platform) | AWS EKS (v1.32), Terraform IaC, ArgoCD GitOps, Prometheus/Grafana, and Bedrock AI Agent (Kira) for automated incident triage |
+| ☁️ **DevOps** | **Three-Tier App on AWS EKS (SSL)** | React + Node.js + MongoDB on EKS with ECR, Ingress controller, ALB, HTTPS |
+| ☁️ **DevOps** | **EKS + Jenkins + ArgoCD** | CI with Jenkins, SonarQube and Trivy scans, GitOps delivery via ArgoCD, Prometheus + Grafana monitoring |
+| ☁️ **DevOps** | **.NET App CI/CD to VPS** | GitHub Actions + Docker pipeline deploying a .NET app to a Hostinger VPS |
+| 🖥️ **Full Stack** | [**Personal Portfolio**](https://github.com/33Krishna/3_Portfolio) | Next.js portfolio built with modern UI components and responsive design |
 
 ---
 
